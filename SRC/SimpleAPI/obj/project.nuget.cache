@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qPl94u1S5IeNT4T+kADfqI65ouH6o2aeGR1Y9NFmPLyZC07m6/VU4/svS32IS4OtnpEddORBjf+NrNYpMzv/4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smacneil\\Desktop\\MyCode\\ONWATCH_BAMBOOHR\\SimpleApiSolution\\SRC\\SimpleAPI\\SimpleAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smacneil\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0-preview.5.22303.8\\microsoft.aspnetcore.openapi.7.0.0-preview.5.22303.8.nupkg.sha512",
+    "C:\\Users\\smacneil\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\smacneil\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\smacneil\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\smacneil\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\smacneil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\smacneil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
